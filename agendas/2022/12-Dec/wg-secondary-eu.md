@@ -86,7 +86,7 @@ who could not make the primary meeting time.
     this agenda document is the source of truth.
 - **Video Conference Link**: https://zoom.us/j/593263740
   - _Password:_ graphqlwg
-- **Live Notes**: [Google Doc]()
+- **Live Notes**: [Google Doc](https://docs.google.com/document/d/1ZD9ym858g6nGOhrV5hDxkF5kY0rzNnm6pYJMToS0rlw/edit#heading=h.7huf3k1ihwij)
 
 [graphql specification]: https://github.com/graphql/graphql-spec
 [calendar]: https://calendar.google.com/calendar/embed?src=linuxfoundation.org_ik79t9uuj2p32i3r203dgv5mo8%40group.calendar.google.com
@@ -99,6 +99,10 @@ who could not make the primary meeting time.
 | :--------------- | :-------- | :----------------- | :-------------------- |
 | Lee Byron (Host) | @leebyron | GraphQL Foundation | San Francisco, CA, US |
 | Benjie Gillam    | @benjie   | Graphile           | Chandler's Ford, UK   |
+| Hugh Willson     | @hwillson | Apollo             | Manotick, ON, CA      |
+| Rob Richard      | @robrichard | 1stDibs          | Jersey City, NJ, US   |
+| Matt Mahoney     | @mjmahone | Meta               | New York, NY, US      |
+| Ivan Goncharov   | @IvanGoncharov | Apollo        | Lviv, UA              |
 
 ## Agenda
 
@@ -118,3 +122,5 @@ who could not make the primary meeting time.
    - [spec#1002: Issue with reproduction](https://github.com/graphql/graphql-spec/issues/1002)
 1. Add a style guide to the GraphQL specification (15m, Benjie)
    - [PR](https://github.com/graphql/graphql-spec/pull/1003)
+1. Update from stream/defer breakout group and new proposal (20m, Rob and Benjie)
+   - [Proposal](https://github.com/robrichard/defer-stream-wg/discussions/52#discussioncomment-4380643)
